@@ -20,7 +20,7 @@ Used in an undergraduate Operations Research course at Oklahoma State University
   
 [NX3_Reading_Graphs.ipynb](https://github.com/AustinLBuchanan/NetworkX-Examples/blob/main/NX3_Reading_Graphs.ipynb) shows how to:
   - read a graph from file (if stored as a list of edges)
-  - use matplotlib to draw a graph
+  - draw a graph
   
 [NX4_GeoPandas.ipynb](https://github.com/AustinLBuchanan/NetworkX-Examples/blob/main/NX4_GeoPandas.ipynb) shows how to:
   - read a graph from a .json file (using the GerryChain reader)
