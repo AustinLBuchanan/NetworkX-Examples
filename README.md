@@ -8,6 +8,7 @@ NX1_Basics.ipynb shows how to:
   - add vertices
   - add edges
   - query the neighbors of a node
+  
 NX2_Attributes_and_Algorithms.ipynb shows how to:
   - add node attributes
   - add edge attributes
@@ -16,10 +17,12 @@ NX2_Attributes_and_Algorithms.ipynb shows how to:
   - check if a subgraph is connected
   - how to compute unweighted (i.e., hop-based) distances
   - how to compute weighted distances
+  
 NX3_Reading_Graphs.ipynb shows how to:
   - read a graph from file (if stored as a list of edges)
   - use matplotlib to draw a graph
-NX4_GeoPands.ipynb shows how to:
+  
+NX4_GeoPandas.ipynb shows how to:
   - read a graph from a .json file (using the GerryChain reader)
   - query the name of a node
   - query the population of a node
