@@ -15,8 +15,8 @@ Used in an undergraduate Operations Research course at Oklahoma State University
   - add graph attributes
   - check if a graph is connected
   - check if a subgraph is connected
-  - how to compute unweighted (i.e., hop-based) distances
-  - how to compute weighted distances
+  - compute unweighted (i.e., hop-based) distances
+  - compute weighted distances
   
 [NX3_Reading_Graphs.ipynb](https://github.com/AustinLBuchanan/NetworkX-Examples/blob/main/NX3_Reading_Graphs.ipynb) shows how to:
   - read a graph from file (if stored as a list of edges)
