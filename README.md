@@ -1,7 +1,7 @@
 # NetworkX Examples
 Examples on how to use NetworkX and GeoPandas in Python.
 
-Used in an undergraduate Operations Research course at Oklahoma State University (IEM 4013)
+Used in an undergraduate Operations Research course at Oklahoma State University (IEM 4013). Video [lectures available on YouTube](https://www.youtube.com/watch?v=VcXqLzEukGA&list=PLKQ1MjSFuxKcFAr7BcqYXkCPQmqqdYkI2).
 
 [NX1_Basics.ipynb](https://github.com/AustinLBuchanan/NetworkX-Examples/blob/main/NX1_Basics.ipynb) shows how to:
   - create a graph object
